@@ -21,3 +21,12 @@ v = [1, 2, 3]
 console.log(typeof v, Array.isArray(v))
 v = 42n // or BigInt(42)
 console.log(typeof v)
+
+var myCatAge = Number('n/a')
+var myAge = 38
+console.log(myAge - 'my dogs age') // NaN
+console.log(myCatAge) // NaN
+console.log(isNaN(myCatAge)) // true
+console.log(myCatAge === myCatAge) // false oops
+console.log(isNaN('my dogs age')) // true oops
+console.log(Number.isNaN('my dogs age')) // false

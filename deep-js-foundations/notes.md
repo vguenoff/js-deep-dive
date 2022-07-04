@@ -46,3 +46,10 @@
 
 *   In JavaScript variables don't have types, values do.
 *   typeof always returns a string
+
+#2. Special Values
+_-_ **NaN** -> Invalid number
+_-_ **NaN is the only value that is not equal to itself**
+_-_ Negative Zero
+![image info](./noteImages/01-negative-zero.png)
+![image info](./noteImages/02-negative-zero.png)
