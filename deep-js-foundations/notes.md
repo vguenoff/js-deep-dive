@@ -53,3 +53,6 @@ _-_ **NaN is the only value that is not equal to itself**
 _-_ Negative Zero
 ![image info](./noteImages/01-negative-zero.png)
 ![image info](./noteImages/02-negative-zero.png)
+
+#3. Truthy and falsy values
+![image info](./noteImages/03-truthy-falsy.png)
